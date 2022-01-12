@@ -1,5 +1,3 @@
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
 ## Sales Representative Job
 
 Leinko.com is a Canada-based startup whose mission is to help solopreneurs and social media influencers manage their service-based business. Leinko is an all-in-one solution combined with appointment scheduling, online payments, intelligent calendar management, secure private meetings, client analytics and a personalized dashboard. Leinko has innovative technology and dedicated expertise to deliver excellent services to a steadily growing customer database.
