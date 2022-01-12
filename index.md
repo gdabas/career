@@ -1,37 +1,19 @@
-## Sales Representative - Leinko
+## Sales Representative Job
 
-You can use the [editor on GitHub](https://github.com/gdabas/career-leinko.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Leinko.com is a Canada-based startup whose mission is to help solopreneurs and social media influencers manage their service-based business. Leinko is an all-in-one solution combined with appointment scheduling, online payments, intelligent calendar management, secure private meetings, client analytics and a personalized dashboard. Leinko has innovative technology and dedicated expertise to deliver excellent services to a steadily growing customer database.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently, Leinko is looking for a sales representative who works independently as the first point of contact for our regular and potential clients. The representative will communicate with the clients and generate new leads via email and messaging on LinkedIn. The job offers flexible working hours, estimated at 2-4 hours per day as per queries from clients. The representative will have an additional stable income of 400 to 500 CAD per month (negotiable as per portfolio) without having to leave the comfort of their house. The representative will see their role bigger with more interesting job tasks along with the company’s growth.
 
-### Markdown
+## Job requirements
+- An active LinkedIn account is mandatory.
+- Working hours are estimated at 2-4 hours per day as per queries from clients and messages to new connections (minimum 25 messages to new prospects).
+- The candidate must have excellent English written and oral communication skills.
+- The candidate must have strong interpersonal skills and preferably sales and customer experience.
+- Willingness to work extra hours is a plus point.
+- Working hours as per Toronto, ON, Canada (GMT-5)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you find this job opportunity exciting and a good fit for you, please do not hesitate to send your application to support@linko.com. We are looking forward to having your resumé and LinkedIn account and talking to you soon.
 
-```markdown
-Syntax highlighted code block
+Thank you and best regards!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gdabas/career-leinko.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Learn more about us at our website [Leinko](https://leinko.com/).
